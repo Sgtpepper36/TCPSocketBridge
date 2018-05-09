@@ -1,0 +1,6 @@
+c:\users\joey.granger\documents\visual studio 2015\Projects\MillenniumKeepAlive\MillenniumKeepAlive\bin\Debug\MillenniumKeepAlive.exe.config
+c:\users\joey.granger\documents\visual studio 2015\Projects\MillenniumKeepAlive\MillenniumKeepAlive\obj\Debug\MillenniumKeepAlive.csprojResolveAssemblyReference.cache
+c:\users\joey.granger\documents\visual studio 2015\Projects\MillenniumKeepAlive\MillenniumKeepAlive\bin\Debug\MillenniumKeepAlive.exe
+c:\users\joey.granger\documents\visual studio 2015\Projects\MillenniumKeepAlive\MillenniumKeepAlive\bin\Debug\MillenniumKeepAlive.pdb
+c:\users\joey.granger\documents\visual studio 2015\Projects\MillenniumKeepAlive\MillenniumKeepAlive\obj\Debug\MillenniumKeepAlive.exe
+c:\users\joey.granger\documents\visual studio 2015\Projects\MillenniumKeepAlive\MillenniumKeepAlive\obj\Debug\MillenniumKeepAlive.pdb
